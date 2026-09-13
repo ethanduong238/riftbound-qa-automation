@@ -1,0 +1,472 @@
+{
+  "data": [
+    {
+      "id": 50399,
+      "name": "Akali",
+      "name_numbered": "Akali VEN-021/166",
+      "slug": "akali",
+      "card_code_number": "VEN-021/166",
+      "type": "singles",
+      "card_number": "VEN-021/166",
+      "hp": null,
+      "rarity": "Epic",
+      "supertype": null,
+      "tcgid": null,
+      "cardmarket_id": 897957,
+      "tcgplayer_id": 705998,
+      "prices": {
+        "cardmarket": {
+          "currency": "EUR",
+          "lowest_near_mint": 1.21,
+          "lowest_near_mint_EU_only": 1.2,
+          "30d_average": 2.47,
+          "7d_average": 2.39,
+          "available_items": 994,
+          "graded": []
+        },
+        "tcg_player": {
+          "currency": "EUR",
+          "market_price": 0
+        }
+      },
+      "episode": {
+        "id": 427,
+        "name": "Vendetta",
+        "slug": "vendetta",
+        "released_at": "2026-07-31",
+        "logo": "https://images.tcggo.com/tcggo/storage/36231/vendetta.png",
+        "code": "VEN",
+        "cards_total": 0,
+        "cards_printed_total": 0,
+        "prices": {
+          "cardmarket": {
+            "total": 8142.44,
+            "currency": "EUR"
+          },
+          "tcgplayer": {
+            "total": 0,
+            "currency": "EUR"
+          }
+        },
+        "game": {
+          "name": "Riftbound",
+          "slug": "riftbound"
+        },
+        "series": null
+      },
+      "artist": {
+        "id": 1140,
+        "name": "莺之歌",
+        "slug": "-1"
+      },
+      "image": "https://images.tcggo.com/tcggo/storage/38855/akali-ven-ven-021166-vendetta.webp",
+      "tcggo_url": "https://www.tcggo.com/riftbound/vendetta/akali",
+      "links": {
+        "cardmarket": "https://www.tcggo.com/external/cm/50399",
+        "tcgplayer": "https://www.tcggo.com/external/tcgplayer/50399"
+      }
+    },
+    {
+      "id": 50400,
+      "name": "Akali",
+      "name_numbered": "Akali VEN-021a/166",
+      "slug": "akali",
+      "card_code_number": "VEN-021a/166",
+      "type": "singles",
+      "card_number": "VEN-021a/166",
+      "hp": null,
+      "rarity": "showcase",
+      "supertype": null,
+      "tcgid": null,
+      "cardmarket_id": 897958,
+      "tcgplayer_id": 705997,
+      "prices": {
+        "cardmarket": {
+          "currency": "EUR",
+          "lowest_near_mint": 9.95,
+          "lowest_near_mint_EU_only": 9.95,
+          "30d_average": 11.5,
+          "7d_average": 11.42,
+          "available_items": 334,
+          "graded": []
+        },
+        "tcg_player": {
+          "currency": "EUR",
+          "market_price": 0
+        }
+      },
+      "episode": {
+        "id": 427,
+        "name": "Vendetta",
+        "slug": "vendetta",
+        "released_at": "2026-07-31",
+        "logo": "https://images.tcggo.com/tcggo/storage/36231/vendetta.png",
+        "code": "VEN",
+        "cards_total": 0,
+        "cards_printed_total": 0,
+        "prices": {
+          "cardmarket": {
+            "total": 8142.44,
+            "currency": "EUR"
+          },
+          "tcgplayer": {
+            "total": 0,
+            "currency": "EUR"
+          }
+        },
+        "game": {
+          "name": "Riftbound",
+          "slug": "riftbound"
+        },
+        "series": null
+      },
+      "artist": {
+        "id": 1271,
+        "name": "League Splash Team",
+        "slug": "league-splash-team"
+      },
+      "image": "https://images.tcggo.com/tcggo/storage/38856/akali-ven-ven-021a166-vendetta.webp",
+      "tcggo_url": "https://www.tcggo.com/riftbound/vendetta/akali-1",
+      "links": {
+        "cardmarket": "https://www.tcggo.com/external/cm/50400",
+        "tcgplayer": "https://www.tcggo.com/external/tcgplayer/50400"
+      }
+    },
+    {
+      "id": 50418,
+      "name": "Akali",
+      "name_numbered": "Akali VEN-038/166",
+      "slug": "akali",
+      "card_code_number": "VEN-038/166",
+      "type": "singles",
+      "card_number": "VEN-038/166",
+      "hp": null,
+      "rarity": "rare",
+      "supertype": null,
+      "tcgid": null,
+      "cardmarket_id": 897976,
+      "tcgplayer_id": 706000,
+      "prices": {
+        "cardmarket": {
+          "currency": "EUR",
+          "lowest_near_mint": 0.02,
+          "lowest_near_mint_EU_only": 0.02,
+          "30d_average": 0.38,
+          "7d_average": 0.34,
+          "available_items": 3046,
+          "graded": []
+        },
+        "tcg_player": {
+          "currency": "EUR",
+          "market_price": 0
+        }
+      },
+      "episode": {
+        "id": 427,
+        "name": "Vendetta",
+        "slug": "vendetta",
+        "released_at": "2026-07-31",
+        "logo": "https://images.tcggo.com/tcggo/storage/36231/vendetta.png",
+        "code": "VEN",
+        "cards_total": 0,
+        "cards_printed_total": 0,
+        "prices": {
+          "cardmarket": {
+            "total": 8142.44,
+            "currency": "EUR"
+          },
+          "tcgplayer": {
+            "total": 0,
+            "currency": "EUR"
+          }
+        },
+        "game": {
+          "name": "Riftbound",
+          "slug": "riftbound"
+        },
+        "series": null
+      },
+      "artist": {
+        "id": 1271,
+        "name": "League Splash Team",
+        "slug": "league-splash-team"
+      },
+      "image": "https://images.tcggo.com/tcggo/storage/38874/akali-ven-ven-038166-vendetta.webp",
+      "tcggo_url": "https://www.tcggo.com/riftbound/vendetta/akali-2",
+      "links": {
+        "cardmarket": "https://www.tcggo.com/external/cm/50418",
+        "tcgplayer": "https://www.tcggo.com/external/tcgplayer/50418"
+      }
+    },
+    {
+      "id": 50419,
+      "name": "Akali",
+      "name_numbered": "Akali VEN-038a/166",
+      "slug": "akali",
+      "card_code_number": "VEN-038a/166",
+      "type": "singles",
+      "card_number": "VEN-038a/166",
+      "hp": null,
+      "rarity": "showcase",
+      "supertype": null,
+      "tcgid": null,
+      "cardmarket_id": 897977,
+      "tcgplayer_id": 705999,
+      "prices": {
+        "cardmarket": {
+          "currency": "EUR",
+          "lowest_near_mint": 9,
+          "lowest_near_mint_EU_only": 9,
+          "30d_average": 12.45,
+          "7d_average": 11.98,
+          "available_items": 286,
+          "graded": []
+        },
+        "tcg_player": {
+          "currency": "EUR",
+          "market_price": 0
+        }
+      },
+      "episode": {
+        "id": 427,
+        "name": "Vendetta",
+        "slug": "vendetta",
+        "released_at": "2026-07-31",
+        "logo": "https://images.tcggo.com/tcggo/storage/36231/vendetta.png",
+        "code": "VEN",
+        "cards_total": 0,
+        "cards_printed_total": 0,
+        "prices": {
+          "cardmarket": {
+            "total": 8142.44,
+            "currency": "EUR"
+          },
+          "tcgplayer": {
+            "total": 0,
+            "currency": "EUR"
+          }
+        },
+        "game": {
+          "name": "Riftbound",
+          "slug": "riftbound"
+        },
+        "series": null
+      },
+      "artist": {
+        "id": 1271,
+        "name": "League Splash Team",
+        "slug": "league-splash-team"
+      },
+      "image": "https://images.tcggo.com/tcggo/storage/38875/akali-ven-ven-038a166-vendetta.webp",
+      "tcggo_url": "https://www.tcggo.com/riftbound/vendetta/akali-3",
+      "links": {
+        "cardmarket": "https://www.tcggo.com/external/cm/50419",
+        "tcgplayer": "https://www.tcggo.com/external/tcgplayer/50419"
+      }
+    },
+    {
+      "id": 50538,
+      "name": "Akali",
+      "name_numbered": "Akali VEN-139/166",
+      "slug": "akali",
+      "card_code_number": "VEN-139/166",
+      "type": "singles",
+      "card_number": "VEN-139/166",
+      "hp": null,
+      "rarity": "rare",
+      "supertype": null,
+      "tcgid": null,
+      "cardmarket_id": 898093,
+      "tcgplayer_id": 706094,
+      "prices": {
+        "cardmarket": {
+          "currency": "EUR",
+          "lowest_near_mint": 0.03,
+          "lowest_near_mint_EU_only": 0.02,
+          "30d_average": 0.09,
+          "7d_average": 0.09,
+          "available_items": 3921,
+          "graded": []
+        },
+        "tcg_player": {
+          "currency": "EUR",
+          "market_price": 0
+        }
+      },
+      "episode": {
+        "id": 427,
+        "name": "Vendetta",
+        "slug": "vendetta",
+        "released_at": "2026-07-31",
+        "logo": "https://images.tcggo.com/tcggo/storage/36231/vendetta.png",
+        "code": "VEN",
+        "cards_total": 0,
+        "cards_printed_total": 0,
+        "prices": {
+          "cardmarket": {
+            "total": 8142.44,
+            "currency": "EUR"
+          },
+          "tcgplayer": {
+            "total": 0,
+            "currency": "EUR"
+          }
+        },
+        "game": {
+          "name": "Riftbound",
+          "slug": "riftbound"
+        },
+        "series": null
+      },
+      "artist": {
+        "id": 1270,
+        "name": "Envar Studio",
+        "slug": "envar-studio"
+      },
+      "image": "https://images.tcggo.com/tcggo/storage/38990/akali-ven-ven-139166-vendetta.webp",
+      "tcggo_url": "https://www.tcggo.com/riftbound/vendetta/akali-4",
+      "links": {
+        "cardmarket": "https://www.tcggo.com/external/cm/50538",
+        "tcgplayer": "https://www.tcggo.com/external/tcgplayer/50538"
+      }
+    },
+    {
+      "id": 50589,
+      "name": "Akali",
+      "name_numbered": "Akali VEN-189/166",
+      "slug": "akali",
+      "card_code_number": "VEN-189/166",
+      "type": "singles",
+      "card_number": "VEN-189/166",
+      "hp": null,
+      "rarity": "showcase",
+      "supertype": null,
+      "tcgid": null,
+      "cardmarket_id": 898141,
+      "tcgplayer_id": 706095,
+      "prices": {
+        "cardmarket": {
+          "currency": "EUR",
+          "lowest_near_mint": 390,
+          "lowest_near_mint_EU_only": 390,
+          "30d_average": 331.21,
+          "7d_average": 375.2,
+          "available_items": 44,
+          "graded": []
+        },
+        "tcg_player": {
+          "currency": "EUR",
+          "market_price": 0
+        }
+      },
+      "episode": {
+        "id": 427,
+        "name": "Vendetta",
+        "slug": "vendetta",
+        "released_at": "2026-07-31",
+        "logo": "https://images.tcggo.com/tcggo/storage/36231/vendetta.png",
+        "code": "VEN",
+        "cards_total": 0,
+        "cards_printed_total": 0,
+        "prices": {
+          "cardmarket": {
+            "total": 8142.44,
+            "currency": "EUR"
+          },
+          "tcgplayer": {
+            "total": 0,
+            "currency": "EUR"
+          }
+        },
+        "game": {
+          "name": "Riftbound",
+          "slug": "riftbound"
+        },
+        "series": null
+      },
+      "artist": {
+        "id": 1290,
+        "name": "Jessica Oyhenart",
+        "slug": "jessica-oyhenart"
+      },
+      "image": "https://images.tcggo.com/tcggo/storage/39040/akali-ven-ven-189166-vendetta.webp",
+      "tcggo_url": "https://www.tcggo.com/riftbound/vendetta/akali-5",
+      "links": {
+        "cardmarket": "https://www.tcggo.com/external/cm/50589",
+        "tcgplayer": "https://www.tcggo.com/external/tcgplayer/50589"
+      }
+    },
+    {
+      "id": 50626,
+      "name": "Akali, Rogue Assassin",
+      "name_numbered": "Akali, Rogue Assassin VEN-189*/166",
+      "slug": "akali-rogue-assassin",
+      "card_code_number": "VEN-189*/166",
+      "type": "singles",
+      "card_number": "VEN-189*/166",
+      "hp": null,
+      "rarity": "showcase",
+      "supertype": null,
+      "tcgid": null,
+      "cardmarket_id": 898161,
+      "tcgplayer_id": 709668,
+      "prices": {
+        "cardmarket": {
+          "currency": "EUR",
+          "lowest_near_mint": null,
+          "lowest_near_mint_EU_only": null,
+          "30d_average": 2137,
+          "7d_average": 2757,
+          "available_items": 22,
+          "graded": []
+        },
+        "tcg_player": {
+          "currency": "EUR",
+          "market_price": 0
+        }
+      },
+      "episode": {
+        "id": 427,
+        "name": "Vendetta",
+        "slug": "vendetta",
+        "released_at": "2026-07-31",
+        "logo": "https://images.tcggo.com/tcggo/storage/36231/vendetta.png",
+        "code": "VEN",
+        "cards_total": 0,
+        "cards_printed_total": 0,
+        "prices": {
+          "cardmarket": {
+            "total": 8142.44,
+            "currency": "EUR"
+          },
+          "tcgplayer": {
+            "total": 0,
+            "currency": "EUR"
+          }
+        },
+        "game": {
+          "name": "Riftbound",
+          "slug": "riftbound"
+        },
+        "series": null
+      },
+      "artist": {
+        "id": 1290,
+        "name": "Jessica Oyhenart",
+        "slug": "jessica-oyhenart"
+      },
+      "image": "https://images.tcggo.com/tcggo/storage/39096/akali-rogue-assassin-ven-ven-189166-vendetta.png",
+      "tcggo_url": "https://www.tcggo.com/riftbound/vendetta/akali-rogue-assassin",
+      "links": {
+        "cardmarket": "https://www.tcggo.com/external/cm/50626",
+        "tcgplayer": "https://www.tcggo.com/external/tcgplayer/50626"
+      }
+    }
+  ],
+  "paging": {
+    "current": 1,
+    "total": 1,
+    "per_page": 20
+  },
+  "results": 7
+}
